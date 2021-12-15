@@ -24,7 +24,7 @@
 
 ## :bookmark: Sobre
 
-O **LoopBot** é uma aplicação Web feita para auxiliar na conexão entre os alunos com a educação. Logo, esta aplicação oferece a essas crianças a possibilidade cumprir desafios, aprender, revisar, ganhar recompensas e interagir muito com outros alunos ao redor do brasil.
+O **LoopBot** é uma aplicação Web feita para auxiliar a conexão entre os alunos com a educação. Logo, esta aplicação oferece a essas crianças a possibilidade cumprir desafios, aprender, revisar, ganhar recompensas e interagir muito com outros alunos ao redor do brasil.
   
 Este projeto foi idealizado pensando no **Acesso a educação**, e sua dificuldade nos ultimos meses por conta da pandemia.
   
