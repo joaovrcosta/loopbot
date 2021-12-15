@@ -1,0 +1,416 @@
+html {
+  width: 100%;
+}
+
+header {
+  max-width: 1920px;
+  border-bottom: 1px solid #f0f0f3;
+  margin: 0 auto;
+  background-color: var(--background);
+  transition: 0.5s;
+}
+
+.container-1 {
+  max-width: 1210px;
+  height: 3.75rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+main {
+  max-width: 1080px;
+  margin: 0 auto;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 12.5rem;
+}
+
+.contrast {
+  margin-left: 0.5rem;
+  color: var(--paragraph-color);
+  font-weight: 700;
+  transition: 0.5s;
+}
+
+.signin-button {
+  background-color: var(--aqua);
+  border-radius: 28px;
+  border: none;
+  width: 180px;
+  height: 42px;
+  color: var(--white);
+
+  transition: 0.2s;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.signin-button:hover {
+  filter: brightness(0.9);
+}
+
+.signin-button img {
+  margin-right: 10px;
+}
+
+.toggle {
+  margin-left: 2rem;
+}
+
+.title {
+  font-size: 72px;
+  font-family: "Roboto";
+  font-weight: 900;
+  max-width: 500px;
+  line-height: 59.2%;
+  color: var(--title-color);
+  letter-spacing: -5px;
+  transition: 0.5s;
+}
+
+.paragraph {
+  max-width: 350px;
+  color: #342b2b;
+  font-weight: 400;
+  margin-top: 2.5rem;
+  top: 10rem;
+  color: var(--paragraph-color);
+  transition: 0.5s;
+}
+
+.strong-1 {
+  color: #cfd1e2;
+}
+
+.strong-1:hover {
+  transform: scale(1.5);
+}
+
+.theme {
+  margin: 0 auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.strong-2 {
+  color: #00dbe9;
+}
+
+.signup-button {
+  width: 13.5rem;
+  height: 3.5rem;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.1));
+  background: #00dbe9;
+  border-radius: 0.5rem;
+  border: none;
+  font-weight: 400;
+
+  transition: 0.2s;
+  font-size: 1rem;
+  margin-top: 6rem;
+  padding: 1.5rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.signup-button:hover {
+  filter: brightness(0.9);
+}
+
+.display-image {
+  margin-left: 36rem;
+  margin-top: -475px;
+
+  cursor: pointer;
+
+  transition: 0.4s;
+}
+
+.display-image:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.05);
+}
+
+.subcontainer {
+  position: relative;
+}
+
+/* The switch - the box around the slider */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+input:checked + .slider {
+  background-color: var(--aqua);
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196f3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.red-title {
+  color: red;
+}
+
+.green-title {
+  color: #1ed688;
+}
+
+.yellow-title {
+  color: #ffcc48;
+}
+
+section {
+  background-color: var(--map-color);
+  margin-top: 4rem;
+  max-height: 700px;
+  transition: 0.5s;
+}
+
+.mapping-section {
+  max-width: 1080px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 102px;
+}
+
+.brazil-map {
+  margin-top: 1rem;
+  margin-right: 135px;
+  margin-bottom: 1rem;
+
+  cursor: pointer;
+
+  transition: 0.4s;
+}
+
+.brazil-map:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.05);
+}
+
+.title-2 {
+  font-size: 72px;
+  font-family: "Roboto";
+  font-weight: 900;
+  max-width: 500px;
+  line-height: 59.2%;
+  color: #342b2b;
+  letter-spacing: -5px;
+  text-align: right;
+  margin-right: 0px;
+}
+
+.paragraph-2-container {
+  max-width: 380px;
+  margin: 20px 0 0 auto;
+}
+
+.paragraph-2 {
+  text-align: right;
+  margin: 0 auto;
+  color: var(--paragraph-color);
+
+  display: flex;
+  transition: 0.5s;
+}
+
+.chidrens-container {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+#children-class-display {
+  background-color: var(--background);
+}
+
+.paragraph-3 {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 30px;
+  color: var(--paragraph-color);
+
+  display: flex;
+  transition: 0.5s;
+}
+
+.title-3 {
+  margin: 0 auto;
+  margin-bottom: 40px;
+  font-size: 72px;
+  text-align: center;
+  letter-spacing: -5px;
+}
+
+.childrens-image {
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 150px;
+  cursor: pointer;
+
+  display: flex;
+
+  transition: 0.4s;
+}
+
+.childrens-image:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.05);
+}
+
+@media (max-width: 1080px) {
+  .container-1 {
+    margin: 0 auto;
+  }
+
+  .display-image {
+    display: none;
+  }
+
+  .title {
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  .paragraph {
+    margin-top: 20px;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .title-2 {
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .paragraph-2 {
+    width: 80%;
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+  }
+
+  .font {
+    display: none;
+  }
+
+  .signup-button {
+    margin: 0 auto;
+    margin-top: 2rem;
+  }
+
+  .brazil-map {
+    display: none;
+  }
+
+  .childrens-image {
+    margin: 0 auto;
+    display: flex;
+  }
+}
+
+@media (max-width: 720px) {
+  .childrens-image {
+    width: 300px;
+  }
+}
+
+.navbar {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .contrast {
+    display: none;
+  }
+  .switch {
+    display: none;
+  }
+}
+
+@media (max-width: 540px) {
+  .contrast {
+    display: none;
+  }
+
+  header {
+    display: none;
+  }
+
+  .title-3 {
+    margin-top: 4rem;
+  }
+
+  .slider.round {
+    display: none;
+  }
+  .switch {
+    display: none;
+  }
+  .navbar {
+    display: block;
+  }
+}
