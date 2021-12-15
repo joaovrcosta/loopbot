@@ -24,11 +24,11 @@
 
 ## :bookmark: Sobre
 
-O **Proffy** é uma aplicação Web e Mobile feita para auxiliar na conexão entre os alunos e os professores. Logo, esta aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e aos alunos a possibilidade de buscar pelas aulas cadastradas.
+O **LoopBot** é uma aplicação Web feita para auxiliar na conexão entre os alunos com a educação. Logo, esta aplicação oferece a essas crianças a possibilidade cumprir desafios, aprender, revisar, ganhar recompensas e interagir muito com outros alunos ao redor do brasil.
   
-Este projeto foi idealizado pensando no **6 de agosto**, onde se comemora o **Dia Nacional dos Profissionais da Educação**.
+Este projeto foi idealizado pensando no **Acesso a educação**, e sua dificuldade nos ultimos meses por conta da pandemia.
   
-Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Rocketseat](https://rocketseat.com.br/).
+Essa aplicação foi realizada para concorrer a uma bolsa da [Rocketseat](https://rocketseat.com.br/).
 
 ## :rocket: Tecnologias
 
@@ -36,49 +36,13 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
 -  [JavaScript](https://nodejs.org/en/)
 -  [CSS](https://reactjs.org/)
 
-## :boom: Como Executar
+## :boom: Como Executar:
 
-- ### **Pré-requisitos**
-
-  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado no computador
-  - É **necessário** possuir o **[Git](https://git-scm.com/)** instalado e configurado no computador
-  - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
-  - Por fim, é **essencial** ter o **[Expo](https://expo.io/)** instalado de forma global na máquina
-
-1. Faça um clone do repositório:
+Faça um clone do repositório:
 
 ```sh
   $ git clone https://github.com/HigorSnt/proffy.git
 ```
-
-2. Executando a Aplicação:
-
-```sh
-  # API
-  $ cd server
-  # Instalando as dependências do projeto.
-  $ yarn # ou npm install
-  # Configurando o banco de dados e criando as tabelas.
-  $ yarn knex:migrate # ou npm run knex:migrate
-
-  # Inicie a API
-  $ yarn start # ou npm start
-
-  # Aplicação web
-  $ cd web
-  # Instalando as dependências do projeto.
-  $ yarn # ou npm install
-  # Inicie a aplicação web
-  $ yarn start # ou npm start
-
-  # Aplicação mobile
-  $ cd mobile
-  # Instalando as dependências do projeto.
-  $ yarn # ou npm install
-  # Inicie a aplicação mobile
-  $ yarn start # ou npm start
-```
-
 
 ## :memo: Licença
 
