@@ -12,6 +12,7 @@
 
 <p align="center">
     <a target="_blank" href="https://www.figma.com/file/rQeY1X9LI88lzLPKdiB6Bo/LoopBot?node-id=0%3A1">Design Figma</a>
+    <a href="https://joaovrcosta.github.io/loopbot/">Site Online</a>
 <p>
 
 ## :bookmark: Sobre
@@ -33,7 +34,7 @@ Este projeto foi idealizado obtenção de um bolsa de estudos na [Rocketseat](ht
 Faça um clone do repositório:
 
 ```sh
-  $ git clone https://github.com/HigorSnt/proffy.git
+  $ git clone https://github.com/joaovrcosta/loopbot.git
 ```
 
 ## :memo: Licença
