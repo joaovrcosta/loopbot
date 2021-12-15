@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="design do projeto" width="650px" src="./.github/design.png" />
+  <img alt="Design do projeto (Figma)" width="650px" src= "https://www.figma.com/file/rQeY1X9LI88lzLPKdiB6Bo/LoopBot?node-id=0%3A1" />
 <p>
 
 ## :bookmark: Sobre
