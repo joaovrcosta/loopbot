@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <a target="_blank" href="https://www.figma.com/file/rQeY1X9LI88lzLPKdiB6Bo/LoopBot?node-id=0%3A1">Design Figma</a>
+    <a target="_blank" href="https://www.figma.com/file/rQeY1X9LI88lzLPKdiB6Bo/LoopBot?node-id=0%3A1">Design Figma</a><br>
     <a href="https://joaovrcosta.github.io/loopbot/">Site Online</a>
 <p>
 
