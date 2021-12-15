@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" src=".github/loop-logo.svg" height="100px" />
+    <img alt="LoopBot" src=".github/loop-logo.svg" height="100px" />
     <br>LoopBot<br/>
     JavaScript | CSS | HTML
 </h1>
@@ -32,13 +32,9 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
 
 ## :rocket: Tecnologias
 
--  [Typescript](https://www.typescriptlang.org/)
--  [Node.js](https://nodejs.org/en/)
--  [ReactJS](https://reactjs.org/)
--  [React Native](http://facebook.github.io/react-native/)
--  [Expo](https://expo.io/)
--  [Express](https://expressjs.com/)
--  [axios](https://github.com/axios/axios)
+-  [HTML](https://www.typescriptlang.org/)
+-  [JavaScript](https://nodejs.org/en/)
+-  [CSS](https://reactjs.org/)
 
 ## :boom: Como Executar
 
