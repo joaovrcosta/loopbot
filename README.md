@@ -16,15 +16,15 @@
 
 ## :bookmark: Sobre
 
-O *LoopBot** é uma aplicação Web feita para auxiliar a conexão dos alunos com a educação.  Logo, esta aplicação oferece a esses alunos possibilidade de aprender muito com conteudos de alta qualidade, minigames, recompensas e muita interassão entre os estudantes assim possbilitando que todos os alunos do brasil tenham acesso a educação neste momento tão dificil do mundo.
+O **LoopBot** é uma aplicação Web feita para auxiliar a conexão dos alunos com a educação.  Logo, esta aplicação oferece a esses alunos possibilidade de aprender muito com conteudos de alta qualidade, minigames, recompensas e muita interassão entre os estudantes assim possbilitando que todos os alunos do brasil tenham acesso a educação neste momento tão dificil do mundo.
     
 Este projeto foi idealizado obtenção de um bolsa de estudos na [Rocketseat](https://rocketseat.com.br/).
   
 ## :rocket: Tecnologias
 
--  [HTML](https://www.typescriptlang.org/)
--  [JavaScript](https://nodejs.org/en/)
--  [CSS](https://reactjs.org/)
+-  [HTML]
+-  [JavaScript]
+-  [CSS]
 
 ## :boom: Como Executar
 
