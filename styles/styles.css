@@ -390,27 +390,3 @@ section {
     display: none;
   }
 }
-
-@media (max-width: 540px) {
-  .contrast {
-    display: none;
-  }
-
-  header {
-    display: none;
-  }
-
-  .title-3 {
-    margin-top: 4rem;
-  }
-
-  .slider.round {
-    display: none;
-  }
-  .switch {
-    display: none;
-  }
-  .navbar {
-    display: block;
-  }
-}
