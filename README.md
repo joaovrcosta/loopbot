@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.figma.com/file/rQeY1X9LI88lzLPKdiB6Bo/LoopBot?node-id=0%3A1">Design Figma</a>
+    <a target="_blank" href="https://www.figma.com/file/rQeY1X9LI88lzLPKdiB6Bo/LoopBot?node-id=0%3A1">Design Figma</a>
 <p>
 
 ## :bookmark: Sobre
