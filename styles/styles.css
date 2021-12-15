@@ -390,12 +390,3 @@ section {
     display: none;
   }
 }
-
-@media (max-width: 540px) {
-  .title-3 {
-    margin-top: 4rem;
-  }
-
-
-  }
-}
